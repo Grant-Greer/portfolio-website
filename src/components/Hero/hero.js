@@ -14,6 +14,7 @@ export default function hero() {
     <header>
       <h1>
         Hi, I'm Geotge McdDonald <br />
+        Hi, I'm Ronald McdDona!!!! <br />
         <span> Full Stack Software Developer</span>
       </h1>
 
