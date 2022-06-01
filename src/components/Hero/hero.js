@@ -13,7 +13,7 @@ export default function hero() {
   return (
     <header>
       <h1>
-        Hi, I'm Ronald McdDonald <br />
+        Hi, I'm Geotge McdDonald <br />
         <span> Full Stack Software Developer</span>
       </h1>
 
